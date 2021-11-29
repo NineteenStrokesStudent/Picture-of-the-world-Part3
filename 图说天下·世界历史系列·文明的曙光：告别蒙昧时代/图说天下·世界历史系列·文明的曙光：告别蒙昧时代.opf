@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">631</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e575f34-c333-4334-86c1-809b4e8d2cf1</dc:identifier>
+        <dc:title>文明的曙光:告别蒙昧时代 (图说天下·世界历史系列)</dc:title>
+        <dc:creator opf:file-as="图说天下世界历史系列编委会" opf:role="aut">图说天下世界历史系列编委会</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;]]&amp;gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>吉林出版集团有限责任公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007X08Z34</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>文化史-欧洲</dc:subject>
+        <meta content="{&quot;图说天下世界历史系列编委会&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-01-07T05:56:14+00:00" name="calibre:timestamp"/>
+        <meta content="文明的曙光:告别蒙昧时代 (图说天下·世界历史系列)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="文明的曙光_告别蒙昧时代 (图说天下·世界历史系列) - 图说天下世界历史系列编委会.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

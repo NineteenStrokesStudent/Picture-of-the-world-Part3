@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">629</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b71e1ea-9bf0-4012-9fd4-85c118816841</dc:identifier>
+        <dc:title>文艺复兴:中世纪的觉醒 (图说天下/世界历史系列)</dc:title>
+        <dc:creator opf:file-as="图说天下世界历史系列编委会" opf:role="aut">图说天下世界历史系列编委会</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>吉林出版集团有限责任公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1c2a166b-4c88-4b5d-afd0-6c0bf4469889</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;图说天下世界历史系列编委会&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0.0" name="calibre:rating"/>
+        <meta content="2014-01-07T05:11:58+00:00" name="calibre:timestamp"/>
+        <meta content="文艺复兴:中世纪的觉醒 (图说天下/世界历史系列)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="文艺复兴_中世纪的觉醒 (图说天下_世界历史系列) - 图说天下世界历史系列编委会.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

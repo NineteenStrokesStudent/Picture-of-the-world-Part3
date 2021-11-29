@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">626</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">443fa0d7-fc46-4f7e-994b-9f1d060db3ab</dc:identifier>
+        <dc:title>古希腊(全彩图本) (图说天下/世界历史系列)</dc:title>
+        <dc:creator opf:file-as="图说天下世界历史系列编委会" opf:role="aut">图说天下世界历史系列编委会</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-30T16:00:00+00:00</dc:date>
+        <dc:publisher>吉林出版集团有限责任公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007X0927W</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;图说天下世界历史系列编委会&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-01-07T04:52:27+00:00" name="calibre:timestamp"/>
+        <meta content="古希腊(全彩图本) (图说天下/世界历史系列)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="古希腊(全彩图本) (图说天下_世界历史系列) - 图说天下世界历史系列编委会.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
